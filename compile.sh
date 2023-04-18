@@ -1,0 +1,2 @@
+/usr/local/bin/glslc /Users/uliraudales/coding/github/game_engine/shaders/simple_shader.vert -o /Users/uliraudales/coding/github/game_engine/shaders/simple_shader.vert.spv
+/usr/local/bin/glslc /Users/uliraudales/coding/github/game_engine/shaders/simple_shader.frag -o /Users/uliraudales/coding/github/game_engine/shaders/simple_shader.frag.spv
