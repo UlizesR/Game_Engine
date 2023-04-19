@@ -1,6 +1,8 @@
 #pragma once
 
 #include "lve_window.hpp"
+#define VK_ENABLE_BETA_EXTENSIONS
+#include <vulkan/vulkan_core.h>
 
 // std lib headers
 #include <string>
