@@ -1,8 +1,7 @@
 # Vulkan Game Engine
 
-This is a repository to hold a game engine that I am learning to build using Vulkan
+This is a repository to hold a small game engine that I am learning to build using Vulkan
 
-Currently need to fix driver issues so I can run what I currently have in my Mac
 
 to run
 run the following commands
